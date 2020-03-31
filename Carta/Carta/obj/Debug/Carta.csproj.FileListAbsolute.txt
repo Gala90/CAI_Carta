@@ -1,0 +1,7 @@
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\bin\Debug\Carta.exe.config
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\bin\Debug\Carta.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\bin\Debug\Carta.pdb
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\obj\Debug\Carta.csprojAssemblyReference.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\obj\Debug\Carta.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\obj\Debug\Carta.exe
+C:\Users\Graciela\Documents\GitHub\CAI_Carta\Carta\Carta\obj\Debug\Carta.pdb
